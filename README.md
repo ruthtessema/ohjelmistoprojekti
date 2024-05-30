@@ -1,2 +1,2 @@
-# ohjelmistoprojekti
+# Ohjelmistoprojekti 🌍
 Interaktiivinen tekstipohjainen sovellus. 
