@@ -1,0 +1,2 @@
+# ohjelmistoprojekti
+Interaktiivinen tekstipohjainen sovellus. 
